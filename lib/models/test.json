@@ -1,0 +1,67 @@
+{
+    "products": {
+    "-MX49a3dvDYD_fHZeDnn": {
+    "confirm": "true",
+    "description": "AÇIKLAMA 1",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/grocery-app-bf234.appspot.com/o/food1.jpeg?alt=media&token=8688ed2a-ac7c-4aee-88d3-c8beb0519905",
+    "name": "Muz",
+    "onSale": "true"
+    },
+    "-MX49fXWaBm1gyZsriAi": {
+    "confirm": "true",
+    "description": "AÇIKLAMA 2",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/grocery-app-bf234.appspot.com/o/food2.jpeg?alt=media&token=0fa0ac5c-cf65-465e-b459-31bd7a3e143f",
+    "name": "Çilek",
+    "onSale": "true"
+    },
+    "-MX49kIw-U6eyOXLP5oX": {
+    "confirm": "true",
+    "description": "AÇIKLAMA 3",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/grocery-app-bf234.appspot.com/o/food3.jpeg?alt=media&token=cd0a88e5-785f-43fe-a71e-ef0bababc8a3",
+    "name": "Armut",
+    "onSale": "true"
+    },
+    "-MX49q__z7NK536z-D2N": {
+    "confirm": "true",
+    "description": "AÇIKLAMA 4",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/grocery-app-bf234.appspot.com/o/food4.jpeg?alt=media&token=5edf3fe3-7b5b-4eac-a80b-d3880c5ebffd",
+    "name": "Nar",
+    "onSale": "false"
+    },
+    "-MX49w5idBh4zzB66M2o": {
+    "confirm": "true",
+    "description": "AÇIKLAMA 6",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/grocery-app-bf234.appspot.com/o/food5.jpeg?alt=media&token=6aa47066-6ceb-4757-8b78-536424c9abc4",
+    "name": "Limon",
+    "onSale": "false"
+    },
+    "-MXEN4dXRd4I-ANT6ATC": {
+    "confirm": "true",
+    "description": "AÇIKLAMA 7",
+    "imageUrl": "http://cdn.getir.com/product/5e3f00da5ba8320b9d3f3915_tr_1583483378467.jpeg",
+    "name": "Karpuz",
+    "onSale":"false"
+    },
+    "-MXUAis1wnvrtv3GXIKv": {
+    "confirm": "true",
+    "description": "AÇIKLAMA 8",
+    "imageUrl": "http://cdn.getir.com/product/5fc2c406e7e3c63bea326e3e_tr_1606895711719.jpeg",
+    "name": "Nar",
+    "onSale": "true"
+    },
+    "-MXUBKObfqLqbtbJs2NG": {
+    "confirm": "true",
+    "description": "AÇIKLAMA 9",
+    "imageUrl": "http://cdn.getir.com/product/5fc2c6d8081af13a23b425d7_tr_1606983824220.jpeg",
+    "name": "Avokado",
+    "onSale": "true"
+    },
+    "-MX_2JmjV41MG1HE84fj": {
+    "confirm": "true",
+    "description": "AÇIKLAMA 10",
+    "imageUrl": "http://www.meysangroup.com/Content/img/intro-portakal.jpg",
+    "name": "Portakal",
+    "onSale": "true"
+    }
+    }
+    }
