@@ -1,16 +1,12 @@
-# hackathon_project_v1
+## *YARDIM ELİ*
 
-A new Flutter project.
+#### Tanıtım
 
-## Getting Started
+Projede bağışcı ve yardım talep eden  olarak 2 üyelik çeşidi bulunmaktadır. Bağış yapmak isteyen kullanılcılar bir bağış hesabı açıp burada yardıma muhtaç kimseler için ürün bağışlayabilir. Yardım talebi hesabı açan kullanıcılar da bağışcılar tarafından bağışlanan ürünleri ücretsiz olarak temin edebilirler. Bu 2 üyelik çeşidini kontrol eden birde admin grubu bulunmaktadır.
 
-This project is a starting point for a Flutter application.
+#### Görseller
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src='./img/1.png' />
+<img src='./img/2.png' />
+<img src='./img/3.png' />
+<img src='./img/4.png' />
